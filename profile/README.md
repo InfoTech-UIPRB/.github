@@ -31,5 +31,9 @@ El objetivo principal de **InfoTech** es fomentar y apoyar a los estudiantes int
 
 Si eres estudiante del Recinto de Bayamón y estás apasionado por la tecnología y la informática, **InfoTech** es el lugar ideal para ti. ¡Forma parte de nuestra comunidad y lleva tus habilidades al siguiente nivel!
 
+**¡Consulta nuestros documentos importantes!**
+- [Repositorio de información oficial](https://github.com/tu-organizacion/documentacion)
+  - [Código de Conducta](https://github.com/tu-organizacion/documentacion/blob/main/codigo-de-conducta.md)
+
 📧 **Contacto:** [infotech.uiprb@gmail.com](mailto:infotech.uiprb@gmail.com)  
 🌐 **Sitio web:** [infotech-uiprb.com](https://infotech-uiprb.com)
